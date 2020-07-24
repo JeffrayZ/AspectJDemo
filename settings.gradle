@@ -1,0 +1,3 @@
+include ':permissiontest'
+include ':app'
+rootProject.name = "AspectJDemo"
